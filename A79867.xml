@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain truth, or, A seasonable discourse of the duties of people to their pastors In an essay upon Heb. 13:17 Obey them that have the Rule over you, &amp;c. / By a well wisher of all good Christians.</title>
+            <author>Well wisher of all good Christians.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79867</idno>
+            <idno type="STC">Wing C4465</idno>
+            <idno type="STC">ESTC R171375</idno>
+            <idno type="EEBO-CITATION">43663234</idno>
+            <idno type="OCLC">ocm 43663234</idno>
+            <idno type="VID">171980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2605:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain truth, or, A seasonable discourse of the duties of people to their pastors In an essay upon Heb. 13:17 Obey them that have the Rule over you, &amp;c. / By a well wisher of all good Christians.</title>
+                  <author>Well wisher of all good Christians.</author>
+                  <author>Clark, James, 1660-1723.</author>
+               </titleStmt>
+               <extent>54 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Reid, in the Year, 1693. To be Sold by James Wardlaw, at his Shop, opposite to the midle [sic] of the Lucken-Booths.</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>[1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Clark by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews XIII, 17 --  Commentaries.</term>
+               <term>Pastoral theology --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171980:1"/>
+            <pb facs="tcp:171980:1"/>
+            <p>PLAIN TRUTH OR, A SEASONABLE DISCOURSE Of the DUTIES of PEOPLE To their PASTORS In an Eſſay upon <hi>Heb:</hi> 13:17. <hi>Obey them that have the Rule over you,</hi> &amp;c.</p>
+            <q>
+               <bibl>The firſt Book of Diſcipline, Heed. <hi>4. p. 30.</hi>
+               </bibl>
+               <p>The People would be exhorted to Reverence and Honour their Miniſters, choſen as the Servants and Ambaſſadours of the <hi>LORD JES<g ref="char:V">Ʋ</g>S,</hi> Obeying the Commandement which they pronounce from <hi>GODS</hi> Mouth and Book, even as they would Obey <hi>GOD</hi> Himſelf.</p>
+            </q>
+            <q>
+               <bibl>Pooles <hi>Annotations on</hi> 1 Kings 6:7.</bibl>
+               <p>It is the Duty of the Builders and Members of the Church, as farr as in them lyes, to take care, that all things be tranſacted there, with perfect Peace and Quietneſs; and that no noiſe of con<g ref="char:EOLhyphen"/>tention, or diviſion, or violence be heard in that Sacred Building.</p>
+            </q>
+            <q>
+               <bibl>Jo: Davenantius Sarisbur Epiſc: <hi>de pace</hi> Eccleſ: <hi>p:</hi> 89: 90</bibl>
+               <p>
+                  <hi>Omnes neceſse habent confiteri, veram &amp; genuinam Charitatem eſſe omni<g ref="char:EOLhyphen"/>bus Eccleſiis &amp; Chriſtianarum Eccleſiarum Membris non minus ad ſa<g ref="char:EOLhyphen"/>lutem neceſsariam, quam fidei Orthodo<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> &amp; ſalutiferae veram &amp; Integram Profeſſionem.</hi>
+               </p>
+            </q>
+            <p>By a Well Wiſher of all good Chriſtians.</p>
+            <p>EDINBURGH, Printed by <hi>J: Reid,</hi> in the Year, 1693. To be Sold by <hi>James Wardlaw,</hi> at his Shop, oppoſite to the midle of the <hi>Lucken-Booths.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:171980:2"/>
+            <head>A SIGH AND A VOTE.</head>
+            <l>OH! were my Head as full of Tears</l>
+            <l>As is my Heart of Fears,</l>
+            <l>With watred Cheeks I would Lament,</l>
+            <l>Becauſe the Church is Rent!</l>
+            <l>All ſay, we ſhould in Love <g ref="char:V">Ʋ</g>nite,</l>
+            <l>As is both Juſt and Meet;</l>
+            <l>Yet none will quite a hair or<note n="*" place="margin">I mean <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Truth.</note> hoove,</l>
+            <l>For the Churches behoof:</l>
+            <l>GOD knows this ſhows not Wit nor Grace,</l>
+            <l>Baſe Self takes too much place:</l>
+            <l>LORD ſend me Joy in ſtead of Tears,</l>
+            <l>And Hope in ſtead of Fears.</l>
+            <l>The Churches Peace LORD let me ſee,</l>
+            <l>Matched with Veritie;</l>
+            <l>And let me ſee <g ref="char:V">Ʋ</g>niting Love</l>
+            <l>Working like Thine above,</l>
+            <l>That Saints each others faults may hide,</l>
+            <l>For all are apt to ſlide;</l>
+            <l>LORD make Thy Grace 'bove ſelf aſcend,</l>
+            <l>
+               <add>So be it, to the end.</add>
+            </l>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171980:2"/>
+            <head>Some Neceſſary ADVERTISEMENTS to the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>CHRISTIAN Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have been in manie Debates and perplexities of mind anent the pub<g ref="char:EOLhyphen"/>lication of the enſuing Diſcourſe, having ſuffered a ſmart conflict, through the interchangeable blows of theſe contending Parties in my boſome, <hi>viz</hi> Scripture, Reaſon, Conſcience, Self, Hope and Fear; But while I was languiſhing under the wounds of this warfare, I received ſome recruite of Spirits and ſtrength from the ſame Divine Ora<g ref="char:EOLhyphen"/>cle, that the worthie and pious Mr. <hi>Burroughs</hi> tells us, did quiet his mind in a like caſe; I will give you his own words, <q>He that meddles with the diviſion of the times, may expect to be divided himſelf, to have his name, his repute to be cut aſſunder, and thrown this way and that way. —</q> But ſeeing Providence hath brought it ſo fullie into my way, I ſhall now venture upon it, with my heart caſt and fixed upon that promiſe, <hi>Prov. 11.3. The uprightneſs of the upright ſhall guide him Irenic: c: 3: 11.</hi>
+            </p>
+            <p>I was alſo induced to offer this Eſſay from the conſideration of the ſeaſon<g ref="char:EOLhyphen"/>ableneſs and uſefulneſs of this ſubject, and ſeveral other motives, all which I will not here mention, but ſeeing a better hand has penned ſome of them, I will give them in his words, <hi>Mr. James Ferguſſon Expos:</hi> on <hi>1 Theſs: 5:12:</hi> p: <hi>234.</hi> So great an enemy is Satan to the Ordinance of a publick Miniſtry, ſo neceſſary is it that People do countenance that Ordi<g ref="char:EOLhyphen"/>nance, and encourage thoſe who are intruſted with it; ſo ignorant, un<g ref="char:EOLhyphen"/>mindfull, and neglective are they of thoſe duties which they ought to per<g ref="char:EOLhyphen"/>form, that the Servants of CHRIST ſhould with much ſeriouſneſs and affectionate Inſinuation preſs upon the LORDS People, all ſuch duties of Reſpect, Reverence, Love, Obedience, Submiſſion, <hi>Heb: 13.17.</hi> And gratitude, <hi>Gal: 6:6:</hi> as they owe unto their Miniſters, ſo far ſhould they be from a total neglect of preſſing any ſuch duties under a pretence of ſelf-deny<g ref="char:EOLhyphen"/>al, or from prepoſterous modeſtie. Thus far that wiſe and pious man. I am not without ſome dumpiſh apprehenſion (I wiſh they be not Ominous) that I may be evil ſpoken of and miſconſtrued for my pains in what I offer in the enſuing Lucubration (for there is a prodigious Plague-ſpirit of de<g ref="char:EOLhyphen"/>traction and evil ſpeaking raging at this time, as alſo of too credulous en<g ref="char:EOLhyphen"/>tertaining Jealouzies and Reproaches) but I hope the ſincerity of my Inten<g ref="char:EOLhyphen"/>tion, and the kindneſs of the great Patron of Truth will ſupport me, being reſolved to expoſe my ſelf to a fair Venture, ſeeing I am perſuaded it is Truth and ſeaſonable Truth that I have delivered; but though I may ſuſ<g ref="char:EOLhyphen"/>taine
+<pb facs="tcp:171980:3"/>
+the dammage of evil ſpeaking, yet if I underſtood that but any one got ſolid good, I would rejoice more in that, then I will he ſorrie for what raſh Cenſures, ſome Scores may paſs upon me; for very commonly the leſs Judicious and intelligent are moſt ready to carpe and cenſure. <hi>Hoſ: 4.4.6. Prov: 26:12:16.</hi> Which therefore ſhould not be thought<g ref="char:EOLhyphen"/>fully heeded.</p>
+            <p>Bue if any good Souls (whom the LORD knows I intend not to offend or griive, ſhal either inadvertently miſtake, or uncharitably misjudge me, (as I hope GOD will not) by impoſing Siniſter Senſes on any thing I ſay, I pray GOD may forgive them (as I do) and that the Judge of all Fleſh may he more mercifull to them then they are Juſt to me.</p>
+            <p>And more ſpecially I caution here, (that ſeeing the Tendency of ſome Paſ<g ref="char:EOLhyphen"/>ſages in the following Eſſay, is for recomending <g ref="char:V">Ʋ</g>nion and Charitie) <hi>I</hi> may not be miſtaken, for I am far from Heterogeneous mixtures, or ſuch pieces of Alloy, as may corrupt or damnifie Religion; for its my hearts wiſh there may he a holy Miniſtrie, and a holy People; And O that there were a Goſpel Spirit poured forth kindly diſpoſing all parties &amp; People to ſay by pre<g ref="char:EOLhyphen"/>judices &amp; Animoſities, &amp; ſeriouſly conſider what may moſt probabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contri<g ref="char:EOLhyphen"/>bute for the credit &amp; ſafety of the Proteſtant Chriſtian Religion, and for my own part I have ſmal hopes of the further propagation thereof, or that its primitive puritie &amp; luſtre will be recovered, till all parties ſee the Ingredient hand they have had in obſtructing &amp; deſtroying the Comon Intereſts thereof, and thereupon repent and turn unto GOD whom we have provocked to di<g ref="char:EOLhyphen"/>vide us in his anger: And if we take Godly and Chriſtian Methods for this effect, there is yet hope in Iſrael concerning this thing, for our GOD who is the ſame Yeſterday and to Day and for ever, has cured as deſperate Mala<g ref="char:EOLhyphen"/>dies as ours are.</p>
+            <p>I thought fit to tell thee, that I have induſtriouſly and of deſign cited ſome paſsages from the Writing<hi>'s</hi> of Maſters <hi>James Durham, G: Gil<g ref="char:EOLhyphen"/>leſpie: Samuel Rutherfoord, Jet: Burroughs, Richard Bax<g ref="char:EOLhyphen"/>ter, Richard Vines, Wil: Green-hill, and Rich: Alleine,</hi> all of them unqueſtionably pious and able Miniſters of the Goſpell, to homolo<g ref="char:EOLhyphen"/>gate what <hi>I</hi> ſay; that if thou will quarrel and cenſure, all the burden may not ly upon my weak ſhoulders alone, but <hi>I</hi> may have ſtronger then my ſelf to help me with a lift.</p>
+            <p>In the laſt place, <hi>I</hi> deſire thou mayeſt not ſatisfie thy ſelf with an overly glance of one paſſage or two, (which may occaſion thy miſtaking) but read over the intire diſcourſe, and ſeriouſly ponder the Scripture grounds of it, ſeeking GODS bleſſing on what thou reads. <hi>I</hi> add no more but wiſhes that all profeſſing Chriſtians may be endued with a Spirit of a ſound mind, and of true Charity and Holineſs.</p>
+            <closer>
+               <salute>FAREWELL.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="3" facs="tcp:171980:3"/>
+            <head>A Diſcourſe of the Duties of <hi>PEOPLE</hi> to their <hi>PASTORS. In an Eſſay upon HEBREWS 13.17.</hi>
+            </head>
+            <epigraph>
+               <q>Obey them that have the Rule over You, and ſubmit your ſelves, for they watch for your Souls, as they that muſt give account; that they may do it with joy and not with grief, for that is unprofitable for You.</q>
+            </epigraph>
+            <p>THe Scope of this Text is to point at the mutual Duties of Paſtors and People; Wherein we have</p>
+            <list>
+               <item>I. <hi>The Paſtors Dutie implyed.</hi>
+                  <list>
+                     <item>Firſt, To Rule, or Guide. Secondly, To Watch.</item>
+                  </list>
+               </item>
+               <item>II. <hi>The Peoples Dutie expreſſed.</hi>
+                  <list>
+                     <item>Firſt, To Obey. Secondly, To Submit.</item>
+                  </list>
+               </item>
+               <item>III. <hi>Reaſons of Peoples Dutie to their Paſtors.</hi>
+                  <list>
+                     <item>1. <hi>R.</hi> Becauſe of the Obligation that lyes upon them, ariſing from the Relation they ſtand in to their Paſtors. Paſtors are Rulers; People are the Ruled. Paſtors are Shepherds; Peo<g ref="char:EOLhyphen"/>ple the Flock to be watched over.</item>
+                     <item>2. <hi>R.</hi> Becauſe of the weighty charge and care of Peoples Souls, that lyes upon Paſtors, they watch over, and muſt give account of their Souls; and Paſtors being ſo concerned in Peo<g ref="char:EOLhyphen"/>ples Good: It's moſt juſt they ſhould be concerned in Paſtors Good and Comfort, and they cannot better manifeſt this, then in performing expected Duties.</item>
+                     <item>3. <hi>R.</hi> That People may be an occaſion of Joy and En<g ref="char:EOLhyphen"/>couragement to their Paſtors, and not creat or augment their grievances, which can no wayes be profitable to them.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>I</hi> ſhall not ſpend time in Criticizing or Gloſſing upon the terms of our Text, but humbly offers what follows, as the plaine and genuine Senſe thereof, according to our uptaking, as if we did hear the Apoſtle ſaying,</p>
+            <p>O! ye <hi>Hebrews</hi> underſtand your Station, know your Duty, GOD hath ſet Rulers over you, whom he hath veſted with Authority, and Cloathed with a Commiſſion to Guide and Govern you: And it is not your ſecular Intereſt they are to con<g ref="char:EOLhyphen"/>ſult, but it is your Precious Immortal Souls they are watchfully concerned in. Therefore yield due Obedience and Submiſſion to their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Commands &amp; Counſels, not that I mean ye ſhould do ſo implicitely for I have told you before, (<hi>verſe</hi> 7.) and now again I put you in remembrance, that ye ought to obey them, while
+<pb n="4" facs="tcp:171980:4"/>
+they ſpeake to you the Word of GOD, or agreeable thereunto; And it is very fit ye ſhould do ſo, that they may Rejoyce on your behalf, and not be diſcouraged in the Work of the LORD; wherein ſurely ye can reap no Profit.</p>
+            <p>
+               <hi>Doctr:</hi> There are ſeveral mutual Duties, that Paſtors and People are obliged to perform to one another.</p>
+            <p>In proſecution of this head of Doctrine, <hi>I</hi> ſhal not meddle with the Duties of Paſtors, knowing that ſuch do underſtand their Station, and the Offices of it better than I can tell them; but will with GODS Aſſiſtance, chiefly toutch what concerns the Duties of People to their Paſtors.</p>
+            <p>In diſcharge of which Undertaking, I will
+<list>
+                  <item>1. <hi>Lay down ſome general Propoſitions, that I expect all intelligent Chriſtians will receive, as unqueſtionable Truths.</hi>
+                  </item>
+                  <item>2. <hi>I will inform People of ſome of their Duties to their Paſtors.</hi>
+                  </item>
+                  <item>3. <hi>I will reach a Reproof to ſome who may juſtly deſerve it.</hi>
+                  </item>
+                  <item>4. <hi>I will cloſe with a few Cautions.</hi>
+                  </item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <head>1. <hi>As to the Propoſitions, they are Theſe.</hi>
+               </head>
+               <p n="1">1. <hi>Prop:</hi> GOD out of his Infinite Wiſdom and Goodneſs, has ap<g ref="char:EOLhyphen"/>pointed a Goſpel Miniſtrie and Ordinances, to be continued in His Church to the end of the World, for making Diſciples, for the perfecting of the Saints, for edifying of the Body of CHRIST, and for ruling and taking care of the Church, <hi>Matth:</hi> 28.19, 20. <hi>Eph:</hi> 4.11, 12.</p>
+               <p n="2">2. <hi>Prop:</hi> It is not the pregnant Parts, the excelling Gifts, nor the flouriſhing Graces of any Miniſters that conferrs a Vertue to GODS Ordinances to make them effectual, it's only the in<g ref="char:EOLhyphen"/>ward Workings and Power of the Spirit of GOD, accompany<g ref="char:EOLhyphen"/>ing outward Adminiſtrations, in fulfilment of GODS Gracious Promiſe, <hi>Iſa:</hi> 55.11. 1 <hi>Cor:</hi> 3.5, 6, 7. Who then is <hi>Paul? &amp;c.</hi>
+               </p>
+               <p n="3">3. <hi>Prop:</hi> It is preſumable and to be rationally ſuppoſed, that knowing Godly and Judicious Miniſters underſtand the Contra<g ref="char:EOLhyphen"/>verſies and Concerns of Religion better then the People, ſpecial<g ref="char:EOLhyphen"/>ly thoſe who are illiterate, and not capable to uſe theſe Helps and Means of Underſtanding, which painful Miniſters are dayly improving, <hi>Mal:</hi> 2.7. <hi>The Prieſts lips ſhould keep knowledge, and they ſhould ſeek the Law at his mouth.</hi> Matth: 13.52. 1 Tim: 4.13, 15, 16. 2 Tim. 2.15. Pray let me not be miſtaken here, as if I did hence infer, that learned Men <hi>hoc ipſo,</hi> or on the account
+<pb n="5" facs="tcp:171980:4"/>
+that they are learned, and have gifts or parts paramount to what the Vulgar can claime, therefore are to be eſteemed the beſt men, or the moſt <hi>Orthodox,</hi> and faithful to the Intereſts of Religion; for the contrare has been to palpable in all the ages of the Church, that many has abuſed their Literature and Wits, to the dammage and prejudice of Religion: And it has been alſo known, that ſome common People, who could not ſet off their plain meanings in the learned terms of Art, yet have expreſ<g ref="char:EOLhyphen"/>ſed their Conceptions as to the main things of Religion, with more ſavor and ſpiritual Sagacity, then many learned Clerks; but my meaning here is, that <hi>ceteris paribus,</hi> or being evens o<g ref="char:EOLhyphen"/>therwiſe, that is, where Miniſters are Pious and Conſcientious, as well as Intelligent and Judicious, ſurely with this odde of Advantage, (it may be ſafely ſaid) that they underſtand the Concerns of Religion, better than the unlearned People.</p>
+               <p n="4">4. <hi>Prop:</hi> All Paſtors and People are not of alike reach and attainments, in light, ſtrength, Solidity of Judgement, and other Chriſtian Perfections, there are ſtrong Men, and there are Babes in Chriſt, there are Tollerably well Learned, and there are who are ever Learning, and never able to come to the knowledge of the truth; there is no doubt but various tempers, and capacities, various Gifts and Graces, various Intereſts and Projects, and In<g ref="char:EOLhyphen"/>numerable other various Circumſtances, may Occaſion ſeveral Perſons thus ſtated to vary and differ in their Conceptions and Sentiments about ſomethings in <hi>Religion,</hi> (where yet on all ſides there may be honeſty in the main) the which differences in Judge<g ref="char:EOLunhyphen"/>ment, ſhould not make <hi>alienation of affection,</hi> nor Interrupt <hi>Chriſtian communion</hi> where there is agreement &amp; Unanimity in the Grand Articles of Faith. <hi>Rom:</hi> 14.2.5.19. 1 <hi>Cor:</hi> 8.1.27.13.12.13. <hi>Phil:</hi> 3.15. Hence ſayes Mr. <hi>Gilleſpie Miſcel: qu: p:</hi> 142. I dare not appropriat the Name of the Godly party to theſe who are free from any of the errors of the times, thoſe that are truely Godly may in diverſe things differ in their Opinion, every error is not Inconſiſtent with Holineſs. And Mr. <hi>Durham</hi> in his Book of Scandal <hi>p:</hi> 284. Speaking of differences among good People, ſayeth he, There is no queſtion many might go to Heaven, with ſuch differences on both ſides, for we will find them continue zealous in ſuch (Differences) even to Death; neither ought this to be thought ſtrange, for the beſt but know in part, and are ſubject to miſtakes, <hi>&amp;c.</hi> And Mr. <hi>Rutherfoord</hi> is alſo particular to the ſame purpoſe, <hi>Diſpute againſt Libertie of Conſcience
+<pb n="6" facs="tcp:171980:5"/>
+Epiſt:</hi> to the Reader, ſayes he, We cannot think but all Saints in this ſide of Glory carry to Heaven with them errors, miſtakes, and Propheſying in part, and the Faireſt Stars and lights in this Lower Firmament of the Church are Clouded, <hi>&amp;c.</hi> One Suit<g ref="char:EOLhyphen"/>able paſſage more I think worth Inſerting here, which I find in a Printed Letter of the Presbyterian Miniſters in <hi>London,</hi> preſent<g ref="char:EOLhyphen"/>ed to the <hi>Weſtminſter</hi> Aſſembly, <hi>January</hi> 1. 1645. By reaſon of different Lights and differing ſights among Brethren, there may be diſſenting in opinions, yet why ſhould there be any ſeparat<g ref="char:EOLunhyphen"/>ing from Church Communion? The Churches Coat may be of diverſe Colours, yet why ſhould there be any Rent in it?</p>
+               <p n="5">5. <hi>Prop.</hi> Neither Paſtors nor People are able ſo ſingly, ſo Prudently, nor ſo diligently as they ought to Diſcharge all their reſpective duties: Who is ſufficient for thoſe things; 2 <hi>Cor.</hi> 2.16<g ref="char:punc">▪</g> 
+                  <hi>Rom.</hi> 7.18, 19. So that neither ſhould Paſtors nor People raſhly and uncharitably ſuſpect, Challenge or cenſure one ano<g ref="char:EOLhyphen"/>ther, for if both will Impartialy and ſeriouſly ſearch themſelves, it will ſoon be found that on all hands, there is too much guilt of negligence and being defective in doing duties. Let us often remember our LORDS ſaying: <hi>Mat.</hi> 7.5.</p>
+               <p n="6">6. <hi>Prop:</hi> The diſreſpect and misbehaviours of People towards GODS Miniſters, whom he hath ſent &amp; Sealed, their Maſter and Patron will reſent as done againſt himſelf, for they are his Em<g ref="char:EOLhyphen"/>baſſadours, his Meſſengers, cloathed with his authority, ſo that GOD Himſelf is toutched and diſhonoured with the affronts done to his Servants; <hi>Luk.</hi> 10.16. <hi>He that deſpiſeth you deſpiſeth me,</hi> &amp;c. I ſay not this as if I imagined, the quality &amp; Character of a Miniſter ſhould ſhelter or excuſe him if he malverſe or miſ<g ref="char:EOLhyphen"/>behave either againſt the Holy Laws of GOD, or juſt Laws of Men, for of all men on GODS Earth, a ſcandalous and pro<g ref="char:EOLhyphen"/>phane Miniſter is the baſeſt and moſt Contemptible, hateful to GOD and all good men; but my meaning is that when any Per<g ref="char:EOLhyphen"/>ſons do contemptuouſly abuſe, injure or diſcourage the Miniſters of CHRIST for their works ſake, or when in the due diſcret management of it: Surely GOD will notice and puniſh ſuch. 2 <hi>Chron.</hi> 36.15, 16, 17.</p>
+               <p n="7">7. <hi>Prop:</hi> It is an unſpeakably great bleſſing (to be prized above all other mercies) to enjoy the opportunity of Goſpel ordinances in plenty and purity; Compare your condition with theirs who never heard of a Saviour, never heard a Goſple Preaching, never
+<pb n="7" facs="tcp:171980:5" rendition="simple:additions"/>
+ſaw the Bible, but worſhip Sun, Moon, and Stars, yea Divels for their Deities: And compare alſo with thoſe places of <hi>Ma<g ref="char:EOLhyphen"/>chumitan</hi> darkneſs, that were ſometimes light in the LORD, and had the Candle of the Goſpel Shining brightly among them. <hi>Pſal:</hi> 147.19.20 <hi>Luk</hi> 1.68.78.79. O I ſay be humble and thankful ye that have the Goſpel in peace and plenty: for as Mr. <hi>Burrough</hi> layes, heretofore ye would have been glad of that which now you ſlight and reject, this is not from more light and ſtrength, that ye have now which ye had not then, but from more vanity, pride, and wantonneſs; <hi>Irenicum.</hi> p: 182.</p>
+               <p n="8">8. <hi>Prop:</hi> Both Miniſters and People muſt anſwer to GOD, how they have minded and managed their reſpective duties. <hi>Matt:</hi> 7.22. <hi>Luk.</hi> 13.23. 2 <hi>Tim</hi> 4 14. <hi>Heb.</hi> 13.17.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond point is to Informe you of the Duties of People to their Paſtors.</head>
+               <p n="1">1. They ſhould conſult him in all their ſcruples doubts, and hard dark Caſes, ſo that when they are truely troubled and un<g ref="char:EOLhyphen"/>clear about their Soul and Conſcience concerns, They ſhould be<g ref="char:EOLhyphen"/>take themſelves to their Miniſter, with an earneſt deſire to be taught, and a ſingle reſolution humbly to comply with his Godly Counſels and directions, but ſee they be weighty Cales, and alſo that that they be your own and ſuch as may tend to e<g ref="char:EOLhyphen"/>difying, rather then to nouriſh curioſity; <hi>Mal:</hi> 2.7. <hi>Phil</hi> 1.7. 1 <hi>Sam:</hi> 9.9. <hi>Before time in Iſrael, when a man came to inquire of GOD, thus he ſpake, come and let us go to the Seer, for he that is now called a Prophet, was beforetime called a Seer.</hi> And Miniſters may be called Seers, in regard they may ſee and have further inſight into caſes of Conſcience, then ſome others, eſpecialy they whom GOD hath trained up in variety of exerciſe themſelves.</p>
+               <p n="2">2. People ſhould honour and reverence their Miniſters; Paſ<g ref="char:EOLhyphen"/>tors are ſpiritual Parents, and Eccleſiaſtick Rulers, and ye know that honour is due to ſuperiors; I ſay ye ſhould put all due notes of reſpect upon your Paſtor, not only on the account of his e<g ref="char:EOLhyphen"/>minency of Gifts and Graces (which in their own Room deſerve eſteem) but for the dignity of his Calling, &amp; the preferment that the GOD of Heaven has put upon him, he is called GODS Embaſſador, a Steward of the myſtries of the Kingdom, the meſſenger of the LORD of Hoſts, an Angel of the Churches, and ſurely to diſpiſe or diſparage ſuch is a manifeſt Contempt, both of the Divine precept and pattern. 2 <hi>Cor:</hi> 5 20 1 <hi>Cor.</hi> 4.1. <hi>Mal.</hi> 2.7. <hi>Rev:</hi> 1.20.</p>
+               <pb n="8" facs="tcp:171980:6"/>
+               <p n="3">3. People ſhould love their Paſtors, and on all occaſions give ſuitable expreſſions of the true and tender affection they owe un<g ref="char:EOLunhyphen"/>to them: If affection cool, edifications gone, and all likeliehood of profiting under that Miniſters labours, let him preach never ſo Powerfuly or pertinently, I ſay if once love to his perſon be withdrawn none of his performances will reliſh or affect; pray conſider the Tye betwixt Miniſter and People, it hath in ſeveral reſpects a near reſemblance to a marriage union and oblidge<g ref="char:EOLhyphen"/>ment, and as they in ſo cloſs a relation ſhould love one ano<g ref="char:EOLhyphen"/>ther, ſo proportionably ſhould the other diſcharge the alike duty, ariſing from an Eccleſiaſtick marriage and union, 1 <hi>Theſſ.</hi> 5.12.13.</p>
+               <p n="4">4. People ſhould obey their Paſtors and receive their charges and commands with a due Deference and Obſervance, not as being the Word of a Man but as it is in truth the Word of GOD. 1 <hi>Theſſ:</hi> 2:13. Our Text tells us Miniſters are Rulers, and alſo they who are ruled ſhould obey; Miniſters ſhould not be looked on as Men only Veſted with human Qualities, being ly<g ref="char:EOLhyphen"/>able to Errours, Miſtakes, Infirmities and Eruptions of their peeviſh Paſſions, even as others (the covering of Love and Cha<g ref="char:EOLhyphen"/>rity ſhould be caſt over theſe) But what of GOD they repreſent, both on the account of their Commiſſion, and their faithfull diſ<g ref="char:EOLhyphen"/>charge of the ſame, conform to their ſacred Inſtructions, that I ſay is mainly to be reſpected in them, and ſo they being the ſpeaking Trumpets of the GOD of Heaven, what of the Voice and Will of GOD they are Inſtruments to expreſs, ſhould for GOD<hi>'S</hi> ſake, their Maſters ſake, be readily received and obſe<g ref="char:EOLhyphen"/>quiouſly obſerved.</p>
+               <p n="5">5. People ſhould humbly ſubmit to their Miniſters in the Diſ<g ref="char:EOLhyphen"/>penſation and ſeaſonable application of all the Ordinances of the Lord: I mean not they ſhould implicity ſubject their Judge<g ref="char:EOLhyphen"/>ment to all their Dictats and Sentiments without Examination, for we know none that poſſeſs an infallible Chair, and certain<g ref="char:EOLhyphen"/>ly all the People of the LORD have a Judgement of Diſcretion allowed them, which they ſhould excerciſe in trying the Spirits whether they be of GOD, yet People are not hereupon li<g ref="char:EOLhyphen"/>centiouſly and vainly to carp at every thing Miniſters ſay, but except there be very great and clear Reaſons in the contrar, they ſhould give a due deference to their Miniſters Opinion and Judgement in what he teaches or ſays; and as they ſhould ſub<g ref="char:EOLhyphen"/>mit to him in the doctrinall part of his Miniſtry, ſo alſo in the
+<pb n="9" facs="tcp:171980:6" rendition="simple:additions"/>
+diſciplinary part, meekly taking with juſt and reaſonable admo<g ref="char:EOLhyphen"/>nitions or Rebukes, whether more publick or privat; Conſidering that he is veſted with authority and charge upon his peril to re<g ref="char:EOLhyphen"/>buke as well as exhort; 1 <hi>Tim.</hi> 5.20, 21. 2 <hi>iTm.</hi> 4:2, 3.</p>
+               <p n="6">6. People ſhould vindicat their Miniſters from injurious ca<g ref="char:EOLhyphen"/>lumnies, and unjuſt Reproaches; the Paſtors credit ſhould be the Peoples care; and his integrity and innocency, their glory and joy: not only ſhould ye be concerned this way becauſe he is your Miniſter, or of your acquaintance, <hi>&amp;c.</hi> but for the Goſ<g ref="char:EOLhyphen"/>pels ſake; for there is no greater or more effectual Ingine of Sa<g ref="char:EOLhyphen"/>tan (the accuſer of the Brethren) for obſtructing the progreſs of the Goſpel, then to bring the Miniſters thereof into diſcredit, and who ever are Satans Tooles in promoving this his plot, GOD knows it had better for them, that the firſt day they were heard ſpeak, the buriall bell had been heard tolling for them; there<g ref="char:EOLhyphen"/>fore it is the Concern of all good Chriſtians to ward of what Tongue-Laſhes may be reached againſt the Reputation of Mi<g ref="char:EOLhyphen"/>niſters. <hi>Acts</hi> 23.5. 1 <hi>Tim.</hi> 5.19: <hi>Jam:</hi> 4.11.</p>
+               <p n="7">7. People ſhould cheerfully render to Miniſters all their juſt Rights and dues provided for their honeſt &amp; comfortable main<g ref="char:EOLhyphen"/>tainance, and be every way ſteedable to them for their help and encouragement: Though as we ſaid, they are the <hi>Angels of the Churches,</hi> yet we would have you conſider it is of the Church Militant in this World, and they cannot live like the trium<g ref="char:EOLhyphen"/>phant Angles of Glory without meat and drink, no more then civil Rulers, though they be called <hi>gods;</hi> And ſeeing they are ſequeſtrate from Worldly Imployments, whereby they might advance their Secular Intereſts and Wealth, as well as other men, and are ſet apart to attend and ſerve at the Altar, it is moſt juſt they ſhould live of the things of the Altar; But we will not inſiſt further on this point, leſt it be thought we are pointing at our own Profits, but as we ſhould give unto <hi>Caeſar,</hi> that which is <hi>Cae<g ref="char:EOLhyphen"/>ſars,</hi> ſo ſhould we give unto GOD that which is GODS, of which dues Miniſters dues are a part, as is clear, <hi>Num:</hi> 18.20.21.24. 1 <hi>Cor:</hi> 9:13:14<g ref="char:punc">▪</g> 
+                  <hi>Gal:</hi> 6:6.</p>
+               <p n="8">8 People ſhould help Miniſters with their prayers, for the LORDS Sake remember your Paſtors before the LORD: Pray that GOD will give them the Spirit of their Calling, pray that he'le beſtow on them gifts and graces, pray that he'le give them ſtrength and courage, pray that he'le give them ſpi<g ref="char:EOLhyphen"/>ritual
+<pb n="10" facs="tcp:171980:7"/>
+Wiſdom, and godly Zeal, for they have varieties of hu<g ref="char:EOLhyphen"/>mors, and difficult caſes to meddle with, pray that he'le bleſs and proſper their labours, even pray that GOD will be with them in their Cloſets, in their Pulpits, in their Converſes, and in all their Performances: O Sirs! I ſay pray, pray for poor Miniſters, there is none has more need of help then they, none has more need of a lift, for heavy, heavy is the Charge that lyes upon them, ſo that if the everlaſting Armes be not underneath them (which ye are to implore) they will ſink down under the Preſſure of it, pray, pray for Miniſters, for they have Needs, Wants, Weakneſſes, Paſſions, and a carnal deceitful heart to wreſtle with like other men, pray for them for their Stock is not in their own hand, ſeek then to him who hath the ſeven Spirits of GOD, that he will diſpenſe to them, what may be needful to be diſpenſed to you, and if there were no more but your own Intereſt, methinks this ſhould have ſome weight with you, for the more he receives from the LORD the more of the LORDS hath he to give unto you, therefore I ſay pray, pray for Mini<g ref="char:EOLhyphen"/>ſters, 2 <hi>Theſ:</hi> 3.2. <hi>Heb:</hi> 13.18.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The third Point, is to reach a Reproof to ſome who are Blame worthy.</head>
+               <p n="1">1. They are reproveable who incroach upon, or evacuate the Right and Authority of Miniſters, which the Mediator has doted and endued them with, and which of his own good plea<g ref="char:EOLhyphen"/>ſure he ſo ſhared among them, that by his Authentick Grant and Commiſſion, they ſtand in a Juſt parity of power and Juriſ<g ref="char:EOLhyphen"/>diction, ſo that the incroachments of civil Magiſtrats by an E<g ref="char:EOLhyphen"/>raſtian Supremacy come into be taxed here. As alſo, the Hie<g ref="char:EOLhyphen"/>rarchical Prelacy, whereby Biſhops pretend a claim of ſuperiority of order and Jurisdiction above the Miniſters of CHRIST, from which GOD be thanked we are now freed; There comes alſo to be challenged here a kind of popular ſupremacy, that ſome un<g ref="char:EOLhyphen"/>skilful and unduetiful People have a humour to aſpire after, taking too much upon them, in meddling with matters too high for them, we will not point at ſpecialities, but I w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh that Peo<g ref="char:EOLhyphen"/>ple did underſtand their own Station, of being the Ruled and Watched over, and that they may keep within their own ſphere of Activity, leaſt they give the Arke of GOD a wrong touch.</p>
+               <p n="2">2. They are reprovable who take up groundleſs petts and prejudices at Miniſters; the truth is, the weakneſs and miſtakes of many well meaning People is to be pitied and lamented: But place, when ſuch perſons arrive at offenſive practices, that have a-
+<pb n="11" facs="tcp:171980:7"/>
+manifeſt tendency to deſtroy all order and peace in the Church, it becomes mighty ſtraitning what courſe to take with them, ſo as neither to ſuffer them to run to greater Errors, or not to pro<g ref="char:EOLhyphen"/>voke them to deſpiſe all Ordinances; And conſequently the Authority of the Miniſtry; for if once cloudy prejudices o<g ref="char:EOLhyphen"/>vercaſt their minds, 'tis neither the Reaſon or Rhetorick of the beſt of Divines will diſpel their darkned thoughts, for that which is to be taxed in them (among other things) as their ſin (in be<g ref="char:EOLhyphen"/>ing picked or prejudged) is their plague too, that will not let them ſee their ſin, or underſtand their errors, GOD pitty and help them whoſe ſad caſe this is, <hi>Gal:</hi> 4.16.</p>
+               <p n="3">3. They are reproveable who miſconſtrue Miniſters, either in their Sermons or Practices, and this ordinarly follows upon the former, for where once prejudice takes place, the perverſe in<g ref="char:EOLhyphen"/>fluence and tincture of this black humour too commonly pre<g ref="char:EOLhyphen"/>vails to make them affix the blackeſt ſenſe and gloſs upon the Miniſters ſayings and doings, if not ſometimes the quite contrar to what he ever either meaned or minded. <hi>Henſe ſayes</hi> Mr. Borrough, <hi>we are bound to give the beſt Interpretation upon our Bre<g ref="char:EOLhyphen"/>thers Actions we can, if they be not apparently ill, we muſt rather wrong our ſelves by thinking too well of them, then wrong them by thinking too ill of them.</hi> Irenicum p: 96. And ſayes Mr. <hi>Durham, we come now to conſider what occaſional means may have influence upon this diviſion a<g ref="char:EOLhyphen"/>mong Godly men, and ſuch may be,</hi> Firſt ſome tale-bearers, and ſe<g ref="char:EOLhyphen"/>creet whiſperers, who may have much influence to alienate good mens affections, by miſrepreſenting the words and actions of o<g ref="char:EOLhyphen"/>thers, <hi>&amp;c.</hi> Of ſcandale p: 277. I glanced before in the fourth <hi>Propoſition,</hi> that neither Miniſters nor People, are all of alike ſtandard and ſtature in their light and judgement; ſome have a freedom to ſay and to do that which others mightily ſcruple, ſome are ready to judge that duty, which others reckon to be ſin, as one ſaith,
+<q>
+                     <l>All minds are not alike, nor of one frame,</l>
+                     <l>What ſome approve, others condemn the ſame.</l>
+                  </q>
+But ſo long as the ground of different Opinions is things indiffe<g ref="char:EOLhyphen"/>rent, or that leſs concerns the eſſentials of Religion, I beſeech you for GODS ſake, do not misjudge or miſconſtrue one ano<g ref="char:EOLhyphen"/>ther, but forbear one another in Love, endeavouring to keep the unity of the Spirit in the bond of peace, <hi>Eph:</hi> 4:23: To which purpoſe ſaith Mr. <hi>Allan, Hold communion in the things where<g ref="char:EOLhyphen"/>in you agree, and charity wherein you differ:</hi> Vind: piet: 2: piet: p: 142. <hi>ſee alſo</hi> Green-hil <hi>on</hi> Ezek. 11.19 p: 411.</p>
+               <pb n="12" facs="tcp:171980:8"/>
+               <p n="4">4. They are reproveable who caſt at Miniſters on ſlender and frivolous accounts; O 'tis great and weighty Reaſons, that ſhould make people withdraw from the Miniſtry of their Paſ<g ref="char:EOLhyphen"/>tors, to whom they have given their hand, and ſhould give their Heart, the miſchief of ſuch raſh adventurs is not conceive<g ref="char:EOLhyphen"/>able; O that GOD would diſcover the greatneſs of this too common and grievous, yet ſlighted ſin. But ah! when people faird this ſin with the fancy of duty, it's hard, hard, and only for GODS Handling to cure ſuch a diſtemper; however, if it may haply prove an ingredient in the cure (through GODS Bleſ<g ref="char:EOLhyphen"/>ſing) to tell you what are inſufficient grounds of withdrawing from a Goſpel Miniſtry, behold in the following Conſiderations, I'le in part inform you.</p>
+               <p n="1">1. Miniſters ſhould not be caſt at for their Faithfulneſs and Freedom in the ſeaſonable Reprehenſion, of the Vices, Errors, and Faults, either of great or ſmall, Godly or wicked, or of any fort of People or party, Miniſters ſhould neither cowardly ne<g ref="char:EOLhyphen"/>glect to tell the greateſt perſons their abominations, nor partially decline to tell the greateſt Profeſſours, their extreems and ex<g ref="char:EOLhyphen"/>travagancies (providing all be done with prudence and to edi<g ref="char:EOLhyphen"/>fication) I doubt not but there is a culpable failzure among Miniſters, in not declaring the whole Council of GOD upon the one hand, as well as upon the other: An Ambaſſadour of Chriſt ſhould ſpeak boldly as he ought to ſpeake, <hi>Iſa.</hi> 58:1.2: <hi>Eph:</hi> 6.20. Hence ſays Mr. <hi>Baxter, A ſinful humouring of raſh Profoſſours, is as great a temptation to Godly Miniſters, as a ſinful compliance with the great ones of the World.</hi> Cure of Church, <hi>Divis:</hi> p: 394:</p>
+               <p n="2">2. Miniſters ſhould not be caſt at for the weakneſs of their gifts, for as we have demonſtrated before 2. <hi>Prop:</hi> The deſirable ſucceſs of Ordinances depends not on the Qualification of the Adminiſtrators, but on the Bliſſing of that GOD, who by all His own Means, accompliſhes all His own Ends, and ſome<g ref="char:EOLhyphen"/>times by the weakeſt and leaſt promiſing Inſtruments <hi>GOD</hi> Atchieves the greateſt Goſpel fates, that the excellency of the power may be ſeen to be of <hi>GOD</hi> and not of Men, and I will not ſay but upon the contrar to, the ableſt of Miniſters may be caſt at by ſome, for the Vulgar are not very diſcreet, or competent Judges of. Miniſters, abilities, being many times pickets and choiſers of Miniſters, more one the account of ho<g ref="char:EOLhyphen"/>mologating their Sentiments in ſome contraverſal Oppinions, then either for their Gifts and Graces, or their integrity and pru<g ref="char:EOLhyphen"/>dence,
+<pb n="14" facs="tcp:171980:8"/>
+&amp; are often more affected with ſuch kind of Subjects, then more uſeful ſeaſonable and momentuous-Doctrines, ſo that af<g ref="char:EOLhyphen"/>fection ſwayes them more then Judgement, as one ſayes;</p>
+               <p>Moſt more partial zeal, affection blind, are rapt and rul'd, then a Judicious mind</p>
+               <p n="3">3. Miniſters ſhould not be caſt at for every perſonal fault, or e<g ref="char:EOLhyphen"/>ſape in their converſation, there is no perfection here away, <hi>He is lifeleſs that's faultleſs,</hi> pray who of the Patriarchs, who of the pro<g ref="char:EOLhyphen"/>phets, or who of the holy Apoſtles of Chriſt without their blots and blamiſhes, and ſome of them had verie foul ones too? Yet GOD himſelf (who is Glorious in holineſs) both employed them, and willed others to receave his will and ordinances from them, as from himſelf; Have a care ye be not righteous over<g ref="char:EOLhyphen"/>much, or in ſeperating either in affection or fellowſhip from any of the Miniſters or people of GOD, to whom a Holy GOD gives his preſence. To which purpoſe ſayes Mr. <hi>Allan,</hi> excom<g ref="char:EOLhyphen"/>municate not them from you, excommunicat not your ſelves from them, with whom CHRIST holds Communion; Judge not that CHRIST withdraws from all thoſe who are not in every thing of your mind and way: deſtroy not all Communion, by ſeeking after a purer, than in this our imperfect ſtate, we ſhall ever attain, <hi>&amp;c. Vind: Pietat:</hi> 2 <hi>Pt: p:</hi> 142. And ſayes Mr. <hi>Rutherfoord.</hi> The faults of the Guides are not your faults who are private Members, you are to keep publick Communion in the publick ordinances of <hi>CHRIST, &amp;c.</hi> peaceable <hi>Plea: p:</hi> 98. And let me ſuggeſt here, That whatever may be the faults of Miniſters either real or ſuppoſed, yet people are not to ſet up a Chancery court in their own Boſomes, to canvaſs, cenſure and ſentence Miniſters and there faults, GOD is a GOD of order, and hath wiſely appointed, Courts, Laws, Rulers or Officers, that in an orderly authoritative way, &amp; according to the due Di<g ref="char:EOLhyphen"/>vine ſteps of procedure, they that give Juſt offence to the Church of GOD (whether they be Miniſters or people) may be taken notice of and cenſured, ſuitable to the nature and degrees, of their known guilt, for if every body ſhall raſhly and rudely uſurp this part of the Miniſterial Function, we ſhould ſoon ſee <hi>A<g ref="char:EOLhyphen"/>narchie</hi> and confuſion in the Church and that either there ſhall be no Miniſters, or elſe every body turn Miniſters at pleaſure, and not only ſmall faults ſeverely and greatly cenſured, but faults made where there are none; yea and ſome for doing duty laſhed as criminals; <hi>Eccleſ:</hi> 7.20: <hi>John</hi> 16:20: <hi>Jam:</hi> 5:17: <hi>Mat:</hi> 17:15, 16.</p>
+               <pb facs="tcp:171980:9"/>
+               <p n="4">4. Miniſters ſhould not be caſt at, becauſe rejected of men, Chriſt and his Apoſt<g ref="char:EOLhyphen"/>les were caſt at by the Rulers of their time, and ſometimes even they of whom better things might be expected, may caſt at very eminent Miniſters and that moſt unrigh<g ref="char:EOLhyphen"/>teouſly and unreaſonably.</p>
+               <p n="5">5. Miniſters ſhould not be caſt at for their Youth-hood, <hi>I</hi> am not to ſtate a Compa<g ref="char:EOLhyphen"/>riſon betwixt old Miniſters and young, all are duely to be reſpected, honoured, and loved for their Works ſake, when they behave ſoberly and conſcienciouſly; tho I think venerable old Age deſerves a grain of Allowance, becauſe it is to be ſuppo<g ref="char:EOLhyphen"/>ſed that <hi>(ceteribus Paribus)</hi> they have moſt experience and underſtanding, but as Youth-hood is no Vice, ſo neither is old Age a Virtue. 1 <hi>Tim:</hi> 4.12: <hi>Tit.</hi> 2 15.</p>
+            </div>
+            <div n="4" type="part">
+               <p>In the laſt plac: I come to ſome Cautions. 1. Have a care of dividing principles and practices, or packing parties in Iſrael, ye know the Matchiavellian <hi>Maxime di<g ref="char:EOLhyphen"/>vide et impera,</hi> firſt divide then rign Rrenting makes way for running, and it is a ſad Truth, that ſometimes even the Saints of GOD, this way, are the Devils ſervants, for when once Satan gets the Church crumbled into parties, under ſpecious and plau<g ref="char:EOLhyphen"/>ſible pretences of reſpect to the Intereſts of Truth, he ordinarly employes thoſe di<g ref="char:EOLhyphen"/>vided Factions to ſpend their Zeal and Witts againſt one another, upon which their unavoidably follows a renting of the Church with wages of <hi>Heroun Timber,</hi> And O! but it be ſad to think upon, that as Mr. <hi>Vines,</hi> ſpeaks of ſome Light and Inconſtant People as he calls them who are ſtill upon the Wing to practiſe ſeparation, ſays he There are many make but a Humour of it, being ignorant of the greatneſs of the ſin of renting aſſunder the Union and Unity of the body of Chriſt, <hi>Vines</hi> of the Lords Sup<g ref="char:EOLunhyphen"/>per. C. 20, P. 261 And ſo grievous a ſin this is, and has ſo many miſchivous Con<g ref="char:EOLhyphen"/>ſequences that it would take a Volumn to tell them in Number and Order, but that ye may have a brief paſſing View, it cannot be more compendiouſly performed, then in a few lines out of Mr. <hi>Allein;</hi> The Reproach of the Goſpel, the hardning of the perverſe, the ſtumbling of the weak, the hindering of Edification, the pro<g ref="char:EOLhyphen"/>moting of Confuſion, and every evil work, Pride and Haughtineſs. Vanity and wantonneſs, envy and uncharitableneſs, <hi>&amp;c:</hi> Are the ſad effects of our diviſions, <hi>Vind piet:</hi> 2. <hi>pt: p:</hi> 138. I will ſay no more of thoſe whoſe genius leads them to rent<g ref="char:EOLhyphen"/>ing and dividing, but only uſurp a prayer that one makes.</p>
+               <q>
+                  <l>
+                     <hi>GOD</hi> ſave His Church from ſuch unhallowed ſprits,</l>
+                  <l>And quickly quench our woeful fellow heats.</l>
+               </q>
+               <p>
+                  <hi>Here I take occaſion to require thee, ſeriouſly to peruſe Durham on Scandal, eſpecially the</hi> 4th. <hi>part.</hi>
+               </p>
+               <p n="2">2. Have a care ye do not too credulouſly entertain ill reports of Miniſters, ſome<g ref="char:EOLhyphen"/>times the prophane are ready to do ſo, to excuſe and extenuate their own Impieties, ſometimes unwarry Profeſſors are ready to do ſo, eſpecially if the miſrepreſented Miniſters be not of their way in every punctilio, <hi>Pſal.</hi> 15.3.</p>
+               <p n="3">3. Have a care of Zeal without Knowledge, or being too Zealous for ye know not what, with not a few their wrath goes before their wits, and fumes of paſſion paſs for flames of Zeal, and ſee your Zeal be not too great for ſmal things, as Mr. <hi>Allan</hi> ſayes, <hi>In matters Circumſtantial, be not over haſty in ſtamping</hi> a jus divinum, <hi>on things diſputable and doubtful; put no more weight nor a greater neceſſity on any thing than</hi> GOD <hi>hath evidently put on it, and ſpend no more of your Zeal about it than is proportion<g ref="char:EOLhyphen"/>able to its weight and evidence: Vind: piet:</hi> 2: <hi>pt:</hi> 140. I am not for diſproving Godly Zeal, for ſurely there is none of the graces of more ſtead ſometimes than purely ſpiri<g ref="char:EOLunhyphen"/>tual Zeal, tempered with ſound knowledg &amp; iuſt Moderation, <hi>Rom:</hi> 10.2.3. <hi>Gal.</hi> 4.18</p>
+               <p n="4">4. Carefully guard againſt ſpiritual pride and ſelf conceit, be not proud of your gifts, graces, or any Chriſtian attainments, for thus you make a bad uſe of the beſt things, and are fooliſh to the boot, in boaſting of that which is not your own, 1 <hi>Cor.</hi> 4.7. And neither be proud of your ſufferings for a profeſſion of Religion, ſome have ſuffered for Religion, who have made Religion to ſuffer; ſome has ſuffered for Religion in times, who will ſuffer for their Irreligion to Eternity; The LORD grant Humility, VViſdom, Love, and Charity may be the Ornaments of Chriſtians, and that there may be many thus Qualified Chriſtians, to be the Orna<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:171980:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
